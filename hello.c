@@ -15,5 +15,7 @@ int main() {
   puts(hello);
   puts(hello2);
 
+  printf("I have started a linked list!");
+
   return 0;
 }
